@@ -1,0 +1,3 @@
+Copyright belongs to Sikai Zhang@2016
+
+Tiny SQL can run most of the SQL script, such as create table, insert data and join tables. Follow the Test1, Test2, Test3 you will know what you can do specifically. To start, just go to your terminal, get under the working folder and type java -jar TinySql.jar and then follow the command and enjoy it! 

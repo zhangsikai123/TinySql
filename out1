@@ -1,0 +1,165 @@
+
+=================Selection======================
+[exam, homework, grade, project, sid]
+100 99 "A" 100 1 
+
+=================Selection======================
+[exam, homework, grade, project, sid]
+100 99 "A" 100 1 
+100 0 "E" 100 2 
+100 100 "E" 100 3 
+100 99 "A" 100 1 
+100 0 "E" 100 2 
+100 100 "E" 100 3 
+
+=================Selection======================
+[exam, homework, grade, project, sid]
+
+=================Selection======================
+[exam, homework, grade, project, sid]
+
+=================Selection======================
+[exam, homework, grade, project, sid]
+100 99 "A" 100 1 
+98 100 "C" 100 3 
+64 100 "C" 69 3 
+90 100 "E" 50 15 
+100 100 "E" 99 15 
+100 100 "A" 100 17 
+99 100 "B" 100 2 
+97 100 "D" 100 4 
+66 100 "A" 100 5 
+65 100 "B" 100 6 
+
+=================Selection======================
+[grade, sid]
+"A" 1 
+"C" 3 
+"C" 3 
+"E" 15 
+"E" 15 
+"A" 17 
+"B" 2 
+"D" 4 
+"A" 5 
+"B" 6 
+
+=================Selection======================
+[exam, homework, grade, project, sid]
+100 99 "A" 100 1 
+100 100 "E" 99 15 
+100 100 "A" 100 17 
+
+=================Selection======================
+[exam, homework, grade, project, sid]
+100 99 "A" 100 1 
+100 100 "A" 100 17 
+
+=================Selection======================
+[exam, homework, grade, project, sid]
+100 99 "A" 100 1 
+100 100 "E" 99 15 
+100 100 "A" 100 17 
+99 100 "B" 100 2 
+
+=================Selection======================
+[exam, homework, grade, project, sid]
+100 99 "A" 100 1 
+98 100 "C" 100 3 
+90 100 "E" 50 15 
+100 100 "E" 99 15 
+100 100 "A" 100 17 
+99 100 "B" 100 2 
+97 100 "D" 100 4 
+
+=================Selection======================
+[exam, homework, grade, project, sid]
+100 100 "E" 99 15 
+100 100 "A" 100 17 
+
+=================Selection======================
+[grade]
+"A" 
+"C" 
+"E" 
+"B" 
+"D" 
+
+=================Selection======================
+[exam, homework, grade, project, sid]
+100 99 "A" 100 1 
+98 100 "C" 100 3 
+64 100 "C" 69 3 
+90 100 "E" 50 15 
+100 100 "E" 99 15 
+100 100 "A" 100 17 
+99 100 "B" 100 2 
+97 100 "D" 100 4 
+66 100 "A" 100 5 
+65 100 "B" 100 6 
+
+=================Selection======================
+[exam, homework, grade, project, sid]
+100 99 "A" 100 1 
+99 100 "B" 100 2 
+64 100 "C" 69 3 
+98 100 "C" 100 3 
+97 100 "D" 100 4 
+66 100 "A" 100 5 
+65 100 "B" 100 6 
+100 100 "E" 99 15 
+90 100 "E" 50 15 
+100 100 "A" 100 17 
+
+=================Selection======================
+[course.grade, course2.grade, course.sid]
+"A" "A" 1 
+"A" "E" 1 
+"A" "A" 1 
+"A" "B" 1 
+"A" "C" 1 
+"A" "D" 1 
+"C" "A" 3 
+"C" "E" 3 
+"C" "A" 3 
+"C" "B" 3 
+"C" "C" 3 
+"C" "D" 3 
+"C" "A" 3 
+"C" "E" 3 
+"C" "A" 3 
+"C" "B" 3 
+"C" "C" 3 
+"C" "D" 3 
+"E" "A" 15 
+"E" "E" 15 
+"E" "A" 15 
+"E" "B" 15 
+"E" "C" 15 
+"E" "D" 15 
+"E" "A" 15 
+"E" "E" 15 
+"E" "A" 15 
+"E" "B" 15 
+"E" "C" 15 
+"E" "D" 15 
+
+=================Selection======================
+[course.grade, course2.grade]
+"A" "A" 
+"C" "C" 
+"C" "C" 
+
+=================Selection======================
+[course.exam, course2.sid, course.grade, course.project, course2.grade, course.homework, course2.exam, course.sid]
+64 3 "C" 69 "C" 100 98 3 
+98 3 "C" 100 "C" 100 98 3 
+100 1 "A" 100 "A" 99 100 1 
+
+=================Selection======================
+[course.exam, course2.sid, course.grade, course.project, course2.grade, course.homework, course2.exam, course.sid]
+100 1 "A" 100 "A" 99 100 1 
+
+=================Selection======================
+[course.grade, course2.grade]
+"A" "A" 
